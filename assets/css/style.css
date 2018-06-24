@@ -1910,3 +1910,14 @@ box-shadow: 0px 10px 62px -16px #dde5ee;}
 .next-project i {
    margin-left: 7px;
 }
+
+ul.jobDescripts{
+    list-style: none;
+}
+ 
+ul.jobDescripts li:before {
+    color: #4183D7;
+    content: '» \0000a0';
+    font-size: 1.2em;
+    font-weight: bold;
+}
