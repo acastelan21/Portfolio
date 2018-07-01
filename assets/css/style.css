@@ -1921,3 +1921,10 @@ ul.jobDescripts li:before {
     font-size: 1.2em;
     font-weight: bold;
 }
+
+ul.item-skills li:before{
+    color: #4183D7;
+    content: '» \0000a0';
+    font-size: 1.2em;
+    font-weight: bold;
+}
