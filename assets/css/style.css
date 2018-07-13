@@ -867,72 +867,6 @@ top: 20px;
 }
 
 
-/*================================================
-       Services
-==================================================*/
-
-.services {
-    background: #F9F9F9;
-}
-.service-list {
-    box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.04);
-    background: #fff;
-}
-.servicebox {
-    border: 1px solid #ededed;
-    padding: 30px;
-    margin-left: -1px;
-    margin-top: -1px;
-}
-
-.servicebox i {
-    color: #6F0F13;
-    font-size: 30px;
-}
-.servicebox p {text-align: center;}
-
-.servicebox h4 {
-   text-align:center;
-   font-size:16px;
-   font-weight:700;
-   margin: 15px 0;
-   color: #333333;
-   font-family: Helvetica, sans-serif  ;
-}
-.service-icon {
-    display: block;
-    margin: 0 auto;
-    font-size: 40px;
-    color: #febf34;
-    line-height: 1;
-    backface-visibility: hidden;
-    perspective: 1000px;
-    -webkit-perspective: 1000px;
-    -webkit-transform: translateZ(0);
-    transform: translateZ(0);
-    -webkit-backface-visibility: hidden;
-    width: 53px;
-    text-align: center;
-    transition: .4s;
-    padding-top: 10px;
-}
-.service-content {
-    overflow: hidden;
-    padding-bottom: 10px;
-   }
-.servicebox:hover .service-icon {
-    color: #fff;
-    -webkit-transform: translateY(-8px);
-    transform: translateY(-8px);
-}
-.no-spacing-row.row {
-    margin-left: 0;
-    margin-right: 0;
-}
-.no-spacing-row.row>div {
-    padding-left: 0;
-    padding-right: 0;
-}
 
 /*================================================
        Portfolio
@@ -1007,14 +941,14 @@ top: 20px;
     transition: all .4s;
 }
 .portfolio .single-portfolio .portfolio-content h5 {
-    color: #fff;
+    color: #dde5ee;
     font-size: 16px;
     text-transform: capitalize;
     font-family: Helvetica, sans-serif  ;
     font-weight:700;
 }
 .portfolio .single-portfolio .portfolio-content p {
-   color: #8e8e8e;
+   color: #dde5ee;
 font-size: 14px;
 font-family: Helvetica, sans-serif  ;
 font-weight:400;
