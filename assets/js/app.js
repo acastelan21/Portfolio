@@ -10,9 +10,7 @@ $(function() {
         $("#loader").fadeOut(500);
     });
 
-	 $("body").on("contextmenu",function(e){
-        return false;
-    });
+	 
     
    
    
@@ -192,41 +190,41 @@ $(function() {
 
             $('#bar1').barfiller({
                 // color of bar
-                barColor: '#4183D7',
+                barColor: '#6F0F13',
                 // duration in ms
                 duration: 2000
             });
 
             $('#bar2').barfiller({
                 // color of bar
-                barColor: '#4183D7',
+                barColor: '#6F0F13',
                 // duration in ms
                 duration: 1800
             });
 
             $('#bar3').barfiller({
                 // color of bar
-                barColor: '#4183D7',
+                barColor: '#6F0F13',
                 // duration in ms
                 duration: 1600
             });
 
             $('#bar4').barfiller({
                 // color of bar
-                barColor: '#4183D7',
+                barColor: '#6F0F13',
                 // duration in ms
                 duration: 1400
             });
             $('#bar5').barfiller({
                 // color of bar
-                barColor: '#4183D7',
+                barColor: '#6F0F13',
                 // duration in ms
                 duration: 1200
             });
 
             $('#bar6').barfiller({
                 // color of bar
-                barColor: '#4183D7',
+                barColor: '#6F0F13',
                 // duration in ms
                 duration: 1000
             });
