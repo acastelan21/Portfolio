@@ -1259,6 +1259,11 @@ ul.jobDescripts li:before {
 img.logos {
     margin: 26px;
 }
+img.logos:hover {
+transform: scale(1.1);
+transition: ease-in-out;
+transition-duration: 200ms;
+}
 
 /* #cutphoto{
     height: 425px;
